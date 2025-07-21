@@ -1,0 +1,84 @@
+*{margin:0;
+   padding:0;
+ box-sizing: border-box;}
+
+
+ .navbutton{
+    height: 37px;
+    width:150px;
+    border: none !important;
+    background-color:blue !important;
+
+}
+
+
+
+.nav-bar-edit{
+    background-color: rgb(20, 20, 20);
+}
+
+
+.card{ 
+          border-radius: 10px;
+        
+
+}
+
+.card:hover{
+          
+  transform: scale(1.04) perspective(0px); 
+  transition: 0.4s;}
+  
+
+
+.navbar-brand{
+
+    font-family:cursive;
+
+    
+}
+
+.nav-item {font-size: 20px;
+           }
+
+
+           
+.nav-link{  font-size: 20px;
+             font-family: cursive;
+
+}
+
+
+.c-item{
+    height: 550px;
+}
+
+.c-img{
+    height: 100%;
+    object-fit: cover; 
+    filter: brightness(0.5);
+}
+
+    .login-container {
+      max-width: 400px;
+      margin: 100px auto;
+      padding: 30px;
+      background-color: white;
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+
+    .btn2{ position: relative;
+          left: 75px;
+
+
+    }
+
+
+    .login-container:hover{
+        filter: drop-shadow(8px 8px 8px  rgb(161, 159, 159));
+    
+  transition: 0.7s;}
+
+    
